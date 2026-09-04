@@ -3,14 +3,14 @@
   <channel>
     <title>BookStreak Sync</title>
     <item>
-      <title>Version 1.1.9</title>
-      <pubDate>Sat, 29 Aug 2026 13:54:08 +0700</pubDate>
-      <sparkle:version>1.1.9</sparkle:version>
-      <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
+      <title>Version 1.1.10</title>
+      <pubDate>Fri, 04 Sep 2026 10:38:40 +0700</pubDate>
+      <sparkle:version>1.1.10</sparkle:version>
+      <sparkle:shortVersionString>1.1.10</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/trunghaiy/get-bookstreak-sync/releases/download/v1.1.9/BookStreakSync_1.1.9.zip"
+      <enclosure url="https://github.com/trunghaiy/get-bookstreak-sync/releases/download/v1.1.10/BookStreakSync_1.1.10.zip"
                  type="application/octet-stream"
-                 sparkle:edSignature="nYR/CU4EOKvgUHy7oVfQd+2rsZaJKhv74S23b/rXVnQ0ovroZWp+dRTH1BiDApqyWKruJS9tAoI07Eb3AJnECQ==" length="1374159" />
+                 sparkle:edSignature="PF8xTNoC3bLS2Prq3Ihqc017cOWiVbqNNAevJZBwkWqophUrkOqvG9g/qmJWIeP/XPZMSMjcyJRq0Qjo3Or3CQ==" length="1384750" />
     </item>
   </channel>
 </rss>
